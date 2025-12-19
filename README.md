@@ -44,6 +44,7 @@ python MT_project.py
 
 ## Notes
 
+* It only recieves Chinese input
 * A microphone is required to use this program
 * For better recognition accuracy, use the program in a quiet environment
 
